@@ -1,12 +1,7 @@
 {
-    "type": "package",
-    "package": {
-        "name": "mentormate/image-url",
-        "version": "dev-master",
-        "source": {
-            "url": "https://github.com/wordpressmentormate/theme-includes",
-            "type": "git",
-            "reference": "master"
-        }
+    "name": "mentormate/image-src",
+    "description": "Get attachment SRC with optional crop",
+    "require": {
+        "php": "^5.3.3 || ^7.0"
     }
 }
