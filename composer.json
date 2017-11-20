@@ -1,0 +1,14 @@
+"repositories": [
+    {
+        "type": "package",
+        "package": {
+            "name": "mentromate/custom-images-function",
+            "version": "dev-master",
+            "source": {
+                "url": "https://github.com/wordpressmentormate/theme-includes/blob/master/images.php",
+                "type": "git",
+                "reference": "master"
+            },
+        }
+    }
+],
